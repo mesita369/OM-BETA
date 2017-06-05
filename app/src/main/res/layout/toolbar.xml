@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toolbar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:titleTextColor="#ffffff"
+    android:titleTextColor="#ffffff"
+    android:background="@color/primary"
+    android:minHeight="?android:attr/actionBarSize"
+    android:titleTextAppearance="@style/Toolbar.TitleText"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+    app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+    android:transitionName="tActionBar">
+    <com.vanticus.ui.widgets.MallanaTextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ఓం"
+        android:layout_gravity="center"
+        android:textColor="#ffffff"
+        android:textSize="25sp"
+        android:maxLines="1"
+        android:id="@+id/toolbar_title" />
+</android.support.v7.widget.Toolbar>

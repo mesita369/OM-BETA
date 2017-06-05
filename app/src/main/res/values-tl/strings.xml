@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titles">
+        <item>నిత్య పారాయణ శ్లోకాలు</item>
+        <item>జీవితంలో ముక్యమైన ఘటాలు</item>
+        <item>పూజా విధి</item>
+        <item>భక్తి సుధ</item>
+        <item>పూజా సామాగ్</item>
+        <item>వ్రతములు</item>
+        <item>స్తోత్రములు</item>
+        <item>పుణ్యక్షేత్రాలు</item>
+        <item>పండుగలు</item>
+        <item>మరికొన్</item>
+    </string-array>
+    <string-array name="subtitles">
+        <item>నిత్య పారాయణ శ్లోకాలు - 1</item>
+        <item>నిత్య పారాయణ శ్లోకాలు - 2</item>
+        <item>నిత్య సంధ్య వందనం - 1</item>
+        <item>నిత్య సంధ్య వందనం - 2</item>
+    </string-array>
+</resources>
